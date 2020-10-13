@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multiplication Table</string>
+    <string name="table_title">Table of : </string>
+    <string name="tableFor1"></string>
+    <string name="tableFor2"></string>
+    <string name="tableFor3"></string>
+    <string name="tableFor4"></string>
+    <string name="tableFor5"></string>
+    <string name="tableFor6"></string>
+    <string name="tableFor7"></string>
+    <string name="tableFor8"></string>
+    <string name="tableFor9"></string>
+    <string name="tableFor10"></string>
+</resources>
